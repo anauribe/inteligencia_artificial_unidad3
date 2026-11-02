@@ -1,5 +1,5 @@
 """
-informe.py - Genera el informe PDF en formato APA 7 (trabajo de estudiante).
+informe.py - Genera el informe PDF en formato APA 7.
 
 Formato aplicado (APA 7.ª ed., adaptado a las condiciones del curso):
   - Portada de estudiante en página aparte.
