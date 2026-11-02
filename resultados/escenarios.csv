@@ -1,0 +1,16 @@
+escenario,metodo,demora_veh_s,acciones,expandidos,generados,frontera_max,tiempo_ms,plan
+"E1. Hora pico, vía seca",BFS,8607.1,5,428,2993,859,4.23,NS:25s EO:10s NS:40s EO:25s NS:40s
+"E1. Hora pico, vía seca",UCS,7876.2,5,706,4939,849,6.57,NS:40s EO:25s NS:40s EO:10s NS:25s
+"E1. Hora pico, vía seca",Codiciosa,9438.8,9,10,70,61,0.12,NS:40s EO:10s NS:40s EO:15s NS:20s EO:10s NS:15s EO:10s NS:10s
+"E1. Hora pico, vía seca",A*,7876.2,5,335,2345,601,3.65,NS:40s EO:25s NS:40s EO:10s NS:25s
+"E1. Hora pico, vía seca",Plan fijo,10560.9,9,,,,,NS:30s EO:20s NS:30s EO:20s NS:30s EO:20s NS:30s EO:20s NS:30s
+E2. Hora pico con lluvia,BFS,18917.0,11,24943,169808,16592,259.45,NS:20s EO:10s NS:40s EO:10s NS:40s EO:10s NS:40s EO:10s NS:40s EO:40s NS:40s
+E2. Hora pico con lluvia,UCS,15811.0,11,14526,100471,11073,140.09,NS:40s EO:30s NS:40s EO:20s NS:40s EO:10s NS:40s EO:10s NS:40s EO:10s NS:20s
+E2. Hora pico con lluvia,Codiciosa,19368.1,17,22,154,133,0.26,NS:40s EO:10s NS:40s EO:15s NS:40s EO:10s NS:40s EO:15s NS:25s EO:15s NS:25s EO:10s NS:20s EO:10s NS:20s EO:10s NS:10s
+E2. Hora pico con lluvia,A*,15811.0,11,6366,44298,5757,63.85,NS:40s EO:30s NS:40s EO:20s NS:40s EO:10s NS:40s EO:10s NS:40s EO:10s NS:20s
+E2. Hora pico con lluvia,Plan fijo,44477.6,45,,,,,NS:30s EO:20s NS:30s EO:20s NS:30s EO:20s NS:30s EO:20s NS:30s EO:20s NS:30s EO:20s NS:30s EO:20s NS:30s EO:20s NS:30s EO:20s NS:30s EO:20s NS:30s EO:20s NS:30s EO:20s NS:30s EO:20s NS:30s EO:20s NS:30s EO:20s NS:30s EO:20s NS:30s EO:20s NS:30s EO:20s NS:30s EO:20s NS:30s EO:20s NS:30s EO:20s NS:30s EO:20s NS:30s
+E3. Salida de evento masivo,BFS,12218.2,6,1005,7029,1620,9.99,NS:10s EO:30s NS:20s EO:40s NS:40s EO:25s
+E3. Salida de evento masivo,UCS,11573.7,6,1489,10422,2783,15.16,NS:25s EO:40s NS:15s EO:40s NS:30s EO:15s
+E3. Salida de evento masivo,Codiciosa,13116.6,11,11,77,67,0.13,NS:10s EO:40s NS:20s EO:30s NS:25s EO:20s NS:15s EO:10s NS:10s EO:10s NS:10s
+E3. Salida de evento masivo,A*,11573.7,6,907,6349,1452,9.6,NS:25s EO:40s NS:15s EO:40s NS:30s EO:15s
+E3. Salida de evento masivo,Plan fijo,29238.6,20,,,,,NS:30s EO:20s NS:30s EO:20s NS:30s EO:20s NS:30s EO:20s NS:30s EO:20s NS:30s EO:20s NS:30s EO:20s NS:30s EO:20s NS:30s EO:20s NS:30s EO:20s

@@ -1,0 +1,60 @@
+{
+  "aleatorios": {
+    "BFS": {
+      "optimos": 13,
+      "brecha_media": 10.288229266135078,
+      "brecha_max": 36.31320442419601,
+      "exp_mediana": 302.0,
+      "exp_media": 5234.98,
+      "frontera_mediana": 664.0,
+      "tiempo_mediana": 2.94543749987497,
+      "tiempo_max": 1496.4817079999193,
+      "b_mediana": 2.8596397563815117,
+      "acciones_media": 5.26
+    },
+    "UCS": {
+      "optimos": 100,
+      "brecha_media": 0.0,
+      "brecha_max": 0.0,
+      "exp_mediana": 740.0,
+      "exp_media": 5822.4,
+      "frontera_mediana": 1133.0,
+      "tiempo_mediana": 6.932333497388754,
+      "tiempo_max": 1113.2687089993851,
+      "b_mediana": 3.9841843554750085,
+      "acciones_media": 5.27
+    },
+    "Codiciosa": {
+      "optimos": 0,
+      "brecha_media": 20.466193831951564,
+      "brecha_max": 94.88243795951139,
+      "exp_mediana": 8.5,
+      "exp_media": 13.38,
+      "frontera_mediana": 52.0,
+      "tiempo_mediana": 0.10160400051972829,
+      "tiempo_max": 0.9763749985722825,
+      "b_mediana": 1.0298955328762531,
+      "acciones_media": 10.46
+    },
+    "A*": {
+      "optimos": 100,
+      "brecha_media": 0.0,
+      "brecha_max": 0.0,
+      "exp_mediana": 440.5,
+      "exp_media": 3334.88,
+      "frontera_mediana": 823.0,
+      "tiempo_mediana": 4.741437000120641,
+      "tiempo_max": 794.2401250002149,
+      "b_mediana": 3.4812599713914096,
+      "acciones_media": 5.27
+    }
+  },
+  "verificacion_heuristica": {
+    "estados": 100,
+    "aristas": 3941,
+    "violaciones_admisible": 0,
+    "violaciones_consistente": 0,
+    "max_h_sobre_hreal": 0.41932137545566645
+  },
+  "h_s0_sobre_optimo": 0.25691109924726935
+}
