@@ -10,7 +10,7 @@ del mejor primero y A*.
 ```bash
 pip install -r requirements.txt
 python main.py            # estudio completo (100 instancias, ~1-3 min)
-python main.py --rapido   # versión corta (20 instancias)
+
 ```
 
 Todo se guarda en `resultados/`:
@@ -37,5 +37,4 @@ Todo se guarda en `resultados/`:
 El informe sigue las normas APA 7 (portada de estudiante, Arial 11, interlineado 1,5,
 tablas y figuras APA, referencias con sangría francesa y anexos).
 
-Antes de entregar, complete las constantes `NOMBRE`, `INSTITUCION`, `TUTOR` y
-`FECHA` al inicio de `informe.py` y vuelva a ejecutar `python main.py`.
+
